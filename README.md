@@ -2,7 +2,7 @@
 <h1 align="left">Hi 👋, I'm Lakshya</h1>  
 <h3 align="left">A frontend developer and UX enthusiast from India</h3>  
   
-👨‍💻 I'm a pre-final student at [Indian Institute of Information Technology, Gwalior](iiitm.ac.in) pursuing Integrated BTech + MTech in Information Technology.  
+👨‍💻 I'm a final year student at [Indian Institute of Information Technology, Gwalior](iiitm.ac.in) pursuing Integrated BTech + MTech in Information Technology.  
     
 🌱 Learning web design and development.  
   
